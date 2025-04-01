@@ -3,7 +3,7 @@ body {
 }
 
 header { 
-    background: green; color: white; text-align: center; padding: 1em; 
+    background: darkblue; color: white; text-align: center; padding: 1em; 
 }
 .container { 
     display: flex; 
